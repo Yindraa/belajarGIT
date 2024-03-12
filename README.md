@@ -1,4 +1,5 @@
 Daftar tugas / branch
+
 1. Tugas-git
 2. Tugas-html
 3. Tugas-css
@@ -8,3 +9,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GiT
+git branch (nama branch)
+git checkout (nama branch)
+Touch (nama file).txt
+git add (nama file).txt
+git commit -m "Add (nama file).txt"
+git checkout main
+git merge (nama branch)
+git push origin maine
